@@ -7,3 +7,5 @@ A Throwaway repo for Git Tutorial from https://github.com/GSoft-SharePoint/Dynam
 My Repo
 =======
 https://github.com/ddevening/Github-SourceTree-and-gitflow
+
+Let's learn git together.
